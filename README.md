@@ -1,5 +1,7 @@
 # dot-tmux
 
+my tmux configuration
+
 ## setup
 
 symlink
