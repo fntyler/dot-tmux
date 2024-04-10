@@ -2,6 +2,18 @@
 
 my tmux configuration
 
+apt
+
+```sh
+sudo apt install tmux
+```
+
+yay
+
+```sh
+yay -Syu tmux
+```
+
 ## setup
 
 symlink
