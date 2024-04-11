@@ -61,3 +61,7 @@ prefix + I
 ```
 
 plugins should be installed to `~/.config/tmux/plugins`.
+
+## extra
+
+[fzf-theme generator](https://vitormv.github.io/fzf-themes/)
