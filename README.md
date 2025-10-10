@@ -62,6 +62,10 @@ prefix + I
 
 plugins should be installed to `~/.config/tmux/plugins`.
 
+## theme
+
+[theme - tokyo night tmux](https://github.com/janoamaral/tokyo-night-tmux)
+
 ## extra
 
 [fzf-theme generator](https://vitormv.github.io/fzf-themes/)
